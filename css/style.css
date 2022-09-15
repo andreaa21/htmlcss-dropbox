@@ -17,3 +17,43 @@
 .d-flex{
   display: flex;
 }
+
+.btn{
+
+}
+
+/* HEADER */
+
+header{
+  height: 80px;
+  background-color: #FFFFFF;
+  justify-content: space-between;
+  padding: 0 10px 0 10px;
+  position: fixed;
+  width: 100%;
+  top: 0;
+}
+
+header nav ul{
+  list-style: none;
+}
+
+header nav ul a{
+  text-decoration: none;
+  color: black;
+  padding: 0 20px;
+}
+
+.header-left, .header-right{
+  align-items: center;
+}
+
+.header-left img{
+  padding-right: 10px;
+}
+
+/* JUMBOTRON */
+
+.jumbotron{
+  margin-top: 80px;
+}
