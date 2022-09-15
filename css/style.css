@@ -75,6 +75,13 @@ header nav ul a{
 
 /* MAIN */
 
+.plan-box{
+  justify-content: space-between;
+}
 
 
+.plan-1, .plan-2, .plan-3{
+  width: 25%;
+  border: 1px solid black;
+}
 
