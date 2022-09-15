@@ -10,6 +10,11 @@
 }
 
 .container{
+  width: 60%;
+  margin: 0 auto;
+}
+
+.jumbo-container{
   width: 70%;
   margin: 0 auto;
 }
