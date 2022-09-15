@@ -80,6 +80,8 @@ header nav ul a{
 
 /* MAIN */
 
+/* SECTION-1 */
+
 .plan-box{
   justify-content: space-between;
 }
@@ -110,6 +112,14 @@ header nav ul a{
   width: 30%;
   text-align: center;
 }
+
+
+/* SECTION-2 */
+
+.section-2 .section-content{
+  margin-top: 150px;
+}
+
 
 
 
