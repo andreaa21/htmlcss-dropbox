@@ -83,5 +83,30 @@ header nav ul a{
 .plan-1, .plan-2, .plan-3{
   width: 25%;
   border: 1px solid black;
+  padding: 20px;
 }
+
+.plan-4{
+  margin-top: 30px;
+  width: 100;
+  border: 1px solid black;
+}
+
+.p4-content{
+  justify-content: space-between;
+  padding: 20px;
+}
+
+.p4-content-left{
+   width: 70%;
+}
+
+.p4-content-right{
+  width: 30%;
+  text-align: center;
+}
+
+
+
+
 
