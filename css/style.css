@@ -146,3 +146,25 @@ header nav ul a{
 .section-4 .section-content .section-title{
   width: 60%;
 }
+
+/* SECTION-5 */
+
+.section-5{
+  margin-top: 150px;
+  height: 650px;
+}
+
+.section-5 .section-box{
+  width: calc(100% / 3);
+  flex-wrap: wrap;
+}
+
+
+.section-5 .section-box .logo-box{
+  height: 50%;
+  width: 50%;
+}
+
+.section-5 .section-box .section-box-content{
+  padding: 50px;
+}
