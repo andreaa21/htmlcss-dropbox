@@ -27,6 +27,7 @@
 
 .btn{
   padding: 5px 10px;
+  border: none;
 }
 
 .blue{
@@ -198,10 +199,10 @@ header nav ul a{
 .section-2 .section-content .s2-text button{
   color: gray;
   background-color: white;
-  border-color: gray;
   width: 55%;
   padding: 10px 10px;
   font-size: 1.1rem;
+  border: 1px solid gray;
 }
 
 
@@ -311,8 +312,28 @@ header nav ul a{
 
 .section-6 .section-content{
   justify-content: space-between;
+  align-items: center;
 }
 
+.section-6 .section-content .section-title{
+  margin: 120px 0;
+  width: 50%;
+}
+.section-6 .section-content .section-title h3{
+  font-size: 3rem;
+  color: #61082B;
+}
+
+.section-6 .section-content .section-button{
+  width: 50%;
+  justify-content: center;
+}
+
+.section-6 .section-content .section-button button{
+ padding: 10px 50px;
+ font-size: 1.1rem;
+ background-color: ##FFFFFF;
+}
 /* SECTION-7 */
 
 .section-7{
