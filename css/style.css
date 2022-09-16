@@ -278,6 +278,8 @@ header nav ul a{
   height: 50%;
   width: 50%;
   align-items: center;
+  min-width: 300px;
+  min-height: 300px;
 }
 
 .section-5 .section-box .logo-box img{
@@ -286,6 +288,18 @@ header nav ul a{
 
 .section-5 .section-box .section-box-content{
   padding: 50px;
+}
+
+.section-5 .section-box .section-box-content .logo{
+  padding-right: 270px;
+}
+
+.section-5 .section-box .section-box-content .quote{
+  padding-top: 100px;
+}
+
+.section-5 .section-box .section-box-content .quote-credit{
+  padding-top: 70px;
 }
 
 
