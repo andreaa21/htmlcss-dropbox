@@ -34,6 +34,37 @@
   background-color: #0061FF;
 }
 
+.red{
+  background-color: #FF1C1C;
+}
+
+.dark-red{
+  background-color: #D5001F;
+}
+
+.yellow{
+  background-color: #FFD830;
+}
+
+.green{
+  background-color: #D1E9CD;
+}
+
+.brown{
+  background-color: #61082B;
+}
+
+.mid-blue{
+  background-color: #0093CE;
+}
+
+.dark-blue{
+  background-color: #0D2481;
+}
+
+.light-blue{
+  background-color: #B4D0E7;
+}
 img{
   max-width: 100%;
 }
@@ -239,6 +270,7 @@ header nav ul a{
 .section-5 .section-box{
   width: calc(100% / 3);
   flex-wrap: wrap;
+  background-color: #F5F5F5;
 }
 
 
