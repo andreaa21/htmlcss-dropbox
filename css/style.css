@@ -277,6 +277,11 @@ header nav ul a{
 .section-5 .section-box .logo-box{
   height: 50%;
   width: 50%;
+  align-items: center;
+}
+
+.section-5 .section-box .logo-box img{
+  padding: 80px;
 }
 
 .section-5 .section-box .section-box-content{
