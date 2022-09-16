@@ -149,7 +149,7 @@ header nav ul a{
 }
 
 .section-2 .section-content .s2-text{
-  padding: 25px 50px;
+  padding: 20px 20px 20px 50px;
   width: 40%;
 }
 
@@ -168,8 +168,8 @@ header nav ul a{
   color: gray;
   background-color: white;
   border-color: gray;
-  width: 50%;
-  padding: 10px 0;
+  width: 55%;
+  padding: 10px 10px;
   font-size: 1.1rem;
 }
 
