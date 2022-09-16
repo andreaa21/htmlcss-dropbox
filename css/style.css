@@ -144,6 +144,34 @@ header nav ul a{
   margin-top: 150px;
 }
 
+.section-2 .section-content .s2-image{
+  width: 60%;
+}
+
+.section-2 .section-content .s2-text{
+  padding: 25px 50px;
+  width: 40%;
+}
+
+.section-2 .section-content .s2-text h3{
+  font-size: 1.6rem;
+  padding-bottom: 20px;
+}
+
+
+.section-2 .section-content .s2-text p{
+  padding-bottom: 40px;
+  font-size: 1.2rem;
+}
+
+.section-2 .section-content .s2-text button{
+  color: gray;
+  background-color: white;
+  border-color: gray;
+  width: 50%;
+  padding: 10px 0;
+  font-size: 1.1rem;
+}
 
 
 /* SECTION-3 */
