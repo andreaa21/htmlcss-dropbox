@@ -179,3 +179,19 @@ header nav ul a{
 .section-6 .section-content{
   justify-content: space-between;
 }
+
+/* SECTION-7 */
+
+.section-7{
+  margin-top: 150px;
+}
+
+.section-7 .faq ul{
+  padding-top: 30px;
+}
+
+.section-7 .faq ul li{
+  justify-content: space-between;
+  border-top: 1px solid black;
+  padding: 20px;
+}
