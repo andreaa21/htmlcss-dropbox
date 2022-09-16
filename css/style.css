@@ -168,3 +168,14 @@ header nav ul a{
 .section-5 .section-box .section-box-content{
   padding: 50px;
 }
+
+
+/* SECTION-6 */
+
+.section-6{
+  background-color: #B4D0E7;
+}
+
+.section-6 .section-content{
+  justify-content: space-between;
+}
