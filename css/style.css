@@ -413,3 +413,9 @@ footer .footer-content .footer-box .footer-list li a{
   text-decoration: none;
   font-size: 1.1rem;
 }
+
+footer .lang{
+  color: gray;
+  padding: 40px 0;
+}
+}
