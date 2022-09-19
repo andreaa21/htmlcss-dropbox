@@ -8,7 +8,9 @@ body{
   font-family: Arial, Helvetica, sans-serif;
 }
 
-/* creare classe active */
+.active{
+  border: 15px solid rgba(255, 255, 255, .5);
+}
 
 .debug{
   border: 1px solid black;
