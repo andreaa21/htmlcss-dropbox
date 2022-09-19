@@ -124,14 +124,25 @@ header nav ul a{
 }
 
 .jumbotron .jumbo-text{
-  width: 45%;
+  width: 30%;
   flex-direction: column;
   justify-content: space-around;
   padding: 20px;
 }
 
-.jumbotron .jumbo-text button{
+.jumbotron .jumbo-img{
   width: 70%;
+}
+
+.jumbotron .jumbo-text p{
+  font-size: 1.1rem;
+}
+
+
+.jumbotron .jumbo-text button{
+  width: 80%;
+  font-size: 1.1rem;
+  padding: 12px 0;
 }
 
 
@@ -420,7 +431,7 @@ header nav ul a{
 
 .section-6 .section-content .section-title{
   margin: 120px 0;
-  width: 50%;
+  width: 60%;
 }
 .section-6 .section-content .section-title h3{
   font-size: 3rem;
@@ -428,12 +439,12 @@ header nav ul a{
 }
 
 .section-6 .section-content .section-button{
-  width: 50%;
+  width: 40%;
   justify-content: center;
 }
 
 .section-6 .section-content .section-button button{
- padding: 10px 50px;
+ padding: 15px 50px;
  font-size: 1.1rem;
  background-color: ##FFFFFF;
 }
