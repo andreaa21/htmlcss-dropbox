@@ -152,15 +152,69 @@ header nav ul a{
   padding-bottom: 50px;
 }
 
+.section-1 .section-content .select{
+  padding: 70px 0;
+}
+
+.section-1 .section-content .select span{
+  padding-right: 50px;
+}
+
 .plan-box{
   justify-content: space-between;
 }
 
+.plan-box .type{
+  text-align: center;
+  border-bottom: 1px solid gray;
+  padding: 10px 0;
+}
+
 
 .plan-1, .plan-2, .plan-3{
-  width: 25%;
-  border: 1px solid black;
+  width: calc(90% / 3);
+  border: 1px solid gray;
+}
+
+.section-1 .section-content .plan-content{
   padding: 20px;
+}
+
+.section-1 .section-content .plan-content .title-price, .features, .trial, .link, .box-bottom{
+  padding: 30px 0;
+}
+
+.section-1 .section-content .plan-content .subscription, .price, h3{
+  padding: 15px 0;
+}
+
+.section-1 .section-content .plan-content .subscription{
+  display: block;
+}
+
+
+.section-1 .plan-content .trial button{
+  width: 100%;
+  padding: 15px;
+  font-size: 1.1rem;
+}
+
+.section-1 .plan-content .box-bottom h4{
+  padding: 10px 0 30px 0;
+}
+
+.features ul li, .box-bottom ul li{
+  padding-bottom: 20px;
+}
+
+.features ul li i, .box-bottom ul li i{
+  padding-right: 5px;
+}
+
+
+
+.plan-content ul li{
+  list-style: none;
 }
 
 .plan-4{
