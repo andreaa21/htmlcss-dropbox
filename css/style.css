@@ -387,6 +387,7 @@ footer .lang{
 
 footer .footer-content{
   justify-content: space-between;
+  padding: 100px 0;
 }
 
 footer .footer-content .footer-box{
@@ -396,4 +397,9 @@ footer .footer-content .footer-box{
 
 footer .footer-content .footer-box .footer-list{
   margin-top: 25px;
+}
+
+footer .footer-content .footer-box .footer-list li{
+  list-style: none;
+  padding: 10px 0;
 }
