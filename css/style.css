@@ -141,7 +141,7 @@ header nav ul li:hover{
   width: 30%;
   flex-direction: column;
   justify-content: space-around;
-  padding: 20px;
+  padding: 40px 20px;
 }
 
 .jumbotron .jumbo-img{
@@ -154,7 +154,7 @@ header nav ul li:hover{
 
 
 .jumbotron .jumbo-text button{
-  width: 80%;
+  width: 65%;
   font-size: 1.1rem;
   padding: 12px 0;
 }
