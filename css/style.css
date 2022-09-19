@@ -341,7 +341,7 @@ header nav ul a{
 /* SECTION-7 */
 
 .section-7{
-  margin-top: 150px;
+  margin: 150px auto;
 }
 
 .section-7 .faq ul{
@@ -351,7 +351,20 @@ header nav ul a{
 .section-7 .faq ul li{
   justify-content: space-between;
   border-top: 1px solid black;
-  padding: 20px;
+  padding: 50px 0;
+}
+
+.section-7 .faq ul li:last-child{
+  border-bottom: 1px solid black;
+}
+
+.section-7 .faq ul li .chevron{
+  font-size: 0.7rem;
+  padding-right: 30px;
+}
+
+.section-7 .faq ul li span{
+  font-weight: bold;
 }
 
 
