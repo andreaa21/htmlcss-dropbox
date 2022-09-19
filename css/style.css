@@ -345,6 +345,11 @@ header nav ul a{
   margin: 150px auto;
 }
 
+.section-7 .section-title{
+  font-size: 1.7rem;
+  padding: 40px 0;
+}
+
 .section-7 .faq ul{
   padding-top: 30px;
 }
