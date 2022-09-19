@@ -95,7 +95,7 @@ header nav ul{
 
 header nav ul a{
   text-decoration: none;
-  color: black;
+  color: #696767;
   padding: 0 20px;
 }
 
@@ -114,6 +114,11 @@ header nav ul li:hover{
 
 .header-left img{
   padding-right: 10px;
+}
+
+.header-right button{
+  padding: 5px 15px;
+  font-size: 1.1rem;
 }
 
 /* JUMBOTRON */
@@ -188,14 +193,14 @@ header nav ul li:hover{
 
 .plan-box .type{
   text-align: center;
-  border-bottom: 1px solid gray;
+  border-bottom: 1px solid lightgray;
   padding: 10px 0;
 }
 
 
 .plan-1, .plan-2, .plan-3{
   width: calc(90% / 3);
-  border: 1px solid gray;
+  border: 1px solid lightgray;
 }
 
 .section-1 .section-content .plan-content{
@@ -250,13 +255,13 @@ header nav ul li:hover{
 .plan-4{
   margin-top: 30px;
   width: 100;
-  border: 1px solid black;
+  border: 1px solid lightgray;
 }
 
 .plan-4 .type{
   padding: 10px 0;
   text-align: center;
-  border-bottom: 1px solid black;
+  border-bottom: 1px solid lightgray;
 }
 
 .p4-content{
@@ -412,6 +417,7 @@ header nav ul li:hover{
 
 .section-5 .section-box .section-box-content{
   padding: 50px;
+  /* overflow: auto; */
 }
 
 .section-5 .section-box .section-box-content .logo{
