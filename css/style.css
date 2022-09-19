@@ -143,6 +143,15 @@ header nav ul a{
 
 /* SECTION-1 */
 
+.section-1{
+  margin-top: 100px;
+}
+
+.section-1 .section-content h2{
+  font-size: 2.5rem;
+  padding-bottom: 50px;
+}
+
 .plan-box{
   justify-content: space-between;
 }
@@ -417,5 +426,4 @@ footer .footer-content .footer-box .footer-list li a{
 footer .lang{
   color: gray;
   padding: 40px 0;
-}
 }
