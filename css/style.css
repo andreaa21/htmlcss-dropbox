@@ -99,6 +99,15 @@ header nav ul a{
   padding: 0 20px;
 }
 
+header nav ul li{
+  height: 80px;
+  line-height: 80px;
+}
+
+header nav ul li:hover{
+  border-bottom: 2px solid black;
+}
+
 .header-left, .header-right{
   align-items: center;
 }
