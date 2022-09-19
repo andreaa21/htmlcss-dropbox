@@ -395,6 +395,10 @@ footer .footer-content .footer-box{
   padding: 20px;
 }
 
+footer .footer-content .footer-box .footer-title{
+  font-size: 1.5rem;
+}
+
 footer .footer-content .footer-box .footer-list{
   margin-top: 25px;
 }
@@ -402,4 +406,10 @@ footer .footer-content .footer-box .footer-list{
 footer .footer-content .footer-box .footer-list li{
   list-style: none;
   padding: 10px 0;
+}
+
+footer .footer-content .footer-box .footer-list li a{
+  color: white;
+  text-decoration: none;
+  font-size: 1.1rem;
 }
