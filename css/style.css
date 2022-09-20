@@ -128,6 +128,10 @@ header nav ul li:hover{
   background-color: #B4D0E7;
 }
 
+/* .jumbotron .jumbo-content{
+  margin-bottom: -200px;
+} */
+
 .jumbotron .jumbo-title{
   height: 50%;
   padding: 80px 80px 50px 20px;
@@ -142,10 +146,12 @@ header nav ul li:hover{
   flex-direction: column;
   justify-content: space-around;
   padding: 40px 20px;
+  margin-bottom: -40px;
 }
 
 .jumbotron .jumbo-img{
   width: 70%;
+  margin-bottom: -80px;
 }
 
 .jumbotron .jumbo-text p{
@@ -171,7 +177,7 @@ header nav ul li:hover{
 /* SECTION-1 */
 
 .section-1{
-  margin-top: 100px;
+  margin-top: 150px;
 }
 
 .section-1 .section-content h2{
