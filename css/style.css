@@ -519,18 +519,22 @@ footer{
   color: white;
 }
 
-footer .lang{
-  margin-top: 30px;
-}
-
 footer .footer-content{
   justify-content: space-between;
-  padding: 100px 0;
+  padding: 100px 0 50px 0;
 }
 
 footer .footer-content .footer-box{
   width: calc(100% / 5);
   padding: 20px;
+}
+
+footer .footer-content .footer-box:first-child::after{
+  content: "";
+  display: block;
+  width: 60%;
+  border-bottom: 1px solid lightgray;
+  padding-top: 100px;
 }
 
 footer .footer-content .footer-box .footer-title{
@@ -554,5 +558,6 @@ footer .footer-content .footer-box .footer-list li a{
 
 footer .lang{
   color: gray;
-  padding: 40px 0;
+  padding: 0 0 20px 20px;
 }
+
